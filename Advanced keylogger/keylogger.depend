@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1499895836 source:e:\mahmoud\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"Key.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KBHook.h"
+
+1499807896 e:\mahmoud\keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1499808574 e:\mahmoud\keylogger\keylogger\key.h
+	<map>
+	<string>
+
+1500144137 e:\mahmoud\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1500144163 e:\mahmoud\keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"Helper.h"
+	"Base64.h"
+
+1499888369 e:\mahmoud\keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1500086206 e:\mahmoud\keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h "
+	"Timer.h"
+	"Helper.h"
+
+1499895521 e:\mahmoud\keylogger\keylogger\kbhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"Key.h"
+	"Timer.h"
+	"SendMail.h"
+
+1499895836 source:e:\mahmoud\keylogger\advanced keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"Key.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KBHook.h"
+
+1499807896 e:\mahmoud\keylogger\advanced keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1499808574 e:\mahmoud\keylogger\advanced keylogger\key.h
+	<map>
+	<string>
+
+1500144137 e:\mahmoud\keylogger\advanced keylogger\base64.h
+	<vector>
+	<string>
+
+1500144163 e:\mahmoud\keylogger\advanced keylogger\io.h
+	<string>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"Helper.h"
+	"Base64.h"
+
+1499888369 e:\mahmoud\keylogger\advanced keylogger\timer.h
+	<thread>
+	<chrono>
+
+1500897766 e:\mahmoud\keylogger\advanced keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h "
+	"Timer.h"
+	"Helper.h"
+
+1500144665 e:\mahmoud\keylogger\advanced keylogger\kbhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"Key.h"
+	"Timer.h"
+	"SendMail.h"
+
