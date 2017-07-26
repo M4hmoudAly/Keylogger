@@ -10,8 +10,8 @@
 
 namespace Mail
 {
-    #define X_EM_TO "Enter Your Email Adress"
-    #define X_EM_FROM "Enter Your Email Adress"
+    #define X_EM_TO "Enter Your Email Address"
+    #define X_EM_FROM "Enter Your Email Address"
     #define X_EM_PASS "Enter Your Password"
 
 const std::string &PowerShellScript =
